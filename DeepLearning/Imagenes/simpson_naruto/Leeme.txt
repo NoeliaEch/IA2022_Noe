@@ -1,0 +1,4 @@
+En esta carpeta hay 3 carpetas mas, con imagenes.
+* bart
+* homero
+* naruto
