@@ -1,0 +1,5 @@
+# Imagenes para probar la red VGG16
+
+* ovejero.jpg
+* pug.jpeg
+* gato_siames.jpg
